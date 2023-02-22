@@ -1,7 +1,7 @@
 body {
 	background-color: rgb(245, 245, 245);
 	color: rgb(80, 80, 80);
-	font-family: Roboto;
+	font-family: 'Roboto';
 	font-size: 16px;
 	
 
@@ -10,15 +10,15 @@ body {
 h1 {
 	color: hotpink;
 	font-size: 32px;
-	font-family:"Roboto", serif;
+	font-family:'Roboto', serif;
 	letter-spacing: 12px;
-	font-weight: bolder;	
+	font-weight: lighter;	
 }
 
 h2 {
 	font-weight: initial;
 	font-size: 20px;
-	font-weight: lighter;
+	font-weight: bolder;
 	color: rgb(70, 70, 70);
 	text-transform: none;
 
